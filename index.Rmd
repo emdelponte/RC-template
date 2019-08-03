@@ -1,0 +1,38 @@
+% About
+
+The goal of this research is to examine the effects of.. This is part of a MSc/PhD study by.. Our collaborators are from the following institutes, etc.
+
+## Project team
+
+Project PI:
+
+- Adam Sparks
+- University of Southern Queensland
+
+Members:
+
+- Member 1
+- Member 2
+- Member 3
+
+## Methodology
+
+Considerations about sampling, study design, randomization, factors, response variables, etc.
+
+
+## Citation
+
+Please cite this research compendium as:  
+
+> Authors, . Title of compendium. Online at https://doi.org/xxx/xxx
+
+## Licences
+
+Data: [CC-0](https://creativecommons.org/publicdomain/zero/1.0/) attribution requested in reuse
+Manuscript: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)  
+Code: [MIT](https://opensource.org/licenses/MIT) year: 2017, copyright holder: Emerson Del Ponte
+
+## Contributions
+
+We welcome contributions from everyone. Before you get started, please see our [contributor guidelines](CONTRIBUTING.html). Please note that this project is released with a [Contributor Code of Conduct](CONDUCT.html). By participating in this project you agree to abide by its terms.
+

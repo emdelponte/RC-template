@@ -1,0 +1,48 @@
+% Code
+
+## Introduction
+
+In this analysis.. 
+
+
+## Load packages
+
+The packages necessary for this analysis..
+
+```{r}
+library(readr)
+```
+
+
+## Data import
+
+Let's first import the data. 
+
+```{r message=FALSE, warning=FALSE}
+data <- read_delim("data/data.csv", delim = ";")
+data
+```
+
+## Data tidy
+
+Data wrangling here.
+
+## Data transformation
+
+We need to do some transformations, create new variables, etc.
+
+## Data visualization
+
+Produce some plots to understand the data
+
+## Data analysis
+
+Modeling
+
+## Manuscript-ready plots
+
+This could be shown here or in a separate webpage.
+
+
+
+
