@@ -1,5 +1,9 @@
 # Research compendium website
 
+<!-- badges: start -->
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emdelponte/RC-template/master?urlpath=rstudio)
+<!-- badges: end -->
+
 This repository contains the development version of RMarkdown code and data example files to customize and generate a responsive website for a research compendium - a compilation of data and computer code to reproduce the results of a publication.
 
 Website example: https://emdelponte.github.io/research-compendium-website/
